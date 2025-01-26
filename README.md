@@ -19,8 +19,9 @@ A Python package for generating realistic synthetic healthcare data for testing,
 - Built-in data validation using Pydantic schemas.
 - Extensible and modular design for additional data types.
 
-## Inspiration
+## Acknowledgements
 
+Inspiration for project and metadata from:
 - https://github.com/insightsengineering/random.cdisc.data/tree/main/R
 - https://geminimedicine.ca/wp-content/uploads/2023/11/GEMINI_Data_Repository_Data_Dictionary_v4.0.0.html
 
