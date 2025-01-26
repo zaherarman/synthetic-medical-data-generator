@@ -20,7 +20,7 @@ A Python package for generating realistic synthetic healthcare data for testing,
 - Extensible and modular design for additional data types.
 
 ## **Future Steps**
-- To make the synthetic data generator more realistic, consider implementing the following enhancements:
+To make the synthetic data generator more realistic, consider implementing the following enhancements:
 
 ### 1. **Advanced Statistical Distributions**
 - Use **truncated normal**, **log-normal**, or **Poisson distributions** for vitals, admissions, and counts.
